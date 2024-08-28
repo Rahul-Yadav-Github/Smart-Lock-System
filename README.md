@@ -38,7 +38,7 @@ Connect the components as follows:
 
 ## Code
 
-The code for this project is provided in the `main.ino` file. The setup involves initializing the sensors and choosing between RFID and fingerprint mode via serial input. The loop function handles the authentication process for the chosen mode and controls the servo motor accordingly.
+The code for this project is provided in the `FINAL_CODE.ino` file. The setup involves initializing the sensors and choosing between RFID and fingerprint mode via serial input. The loop function handles the authentication process for the chosen mode and controls the servo motor accordingly.
 
 ## Usage
 
